@@ -1,0 +1,9 @@
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var REGISTER_MODAL = exports.REGISTER_MODAL = 'MODAL/REGISTER_MODAL';
+var UNREGISTER_MODAL = exports.UNREGISTER_MODAL = 'MODAL/UNREGISTER_MODAL';
+var SHOW_MODAL_WINDOW = exports.SHOW_MODAL_WINDOW = 'MODAL/SHOW_MODAL_WINDOW';
+var HIDE_MODAL_WINDOW = exports.HIDE_MODAL_WINDOW = 'MODAL/HIDE_MODAL_WINDOW';
